@@ -1,0 +1,13 @@
+.env
+__pycache__/
+env/
+
+# Ignore all PDFs
+data/*.pdf
+
+# BUT allow sample files
+!data/Introduction to Data Processing.pptx.pdf
+!data/data/Feature Engineering and Wrangling.pdf
+!data/NLP & Vector Embeddings.pdf
+!data/Introduction to the Naive Bayes Classifier.pdf
+
