@@ -45,14 +45,6 @@ When you ask a question, here’s what happens behind the scenes:
 This RAG approach ensures that the AI’s responses remain tied to your source material, making it especially useful for Q&A on custom documents.
 
 
-## Demo
-
-Here’s a quick look at the app in action:
-
-![Streamlit App Screenshot](assets/Screenshot1.png )
-![Streamlit App Screenshot](assets/Screenshot2.png )
-
-
 
 ## Final Thoughts
 
