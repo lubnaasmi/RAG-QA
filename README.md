@@ -44,11 +44,17 @@ When you ask a question, here’s what happens behind the scenes:
 
 This RAG approach ensures that the AI’s responses remain tied to your source material, making it especially useful for Q&A on custom documents.
 
+## Demo
+
+Here’s a quick look at the app in action:
+
+![Streamlit App Screenshot](assets/Screenshot1.png )
+![Streamlit App Screenshot](assets/Screenshot2.png )
 
 
 ## Final Thoughts
 
-This project provides a solid foundation for experimenting with Retrieval-Augmented Generation on your own documents. You can extend it, refine it, and adapt it to fit your needs. Most importantly, enjoy exploring and asking meaningful questions to your PDFs! 🚀
+This project provides a solid foundation for experimenting with Retrieval-Augmented Generation on your own documents. You can extend it, refine it, and adapt it to fit your needs. Most importantly, enjoy exploring and asking meaningful questions to your PDFs! 
 
 
 
